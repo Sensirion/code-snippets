@@ -2,7 +2,8 @@
 This repository contains code snippets and examples for Sensirion sensors.
 
 ## Repository content
-* ...
+* [Bathroom Mirror Anti-Fogging Project with SHT Sensor on
+  Arduino](bathroom-anti-fogging)
 
 ---
 
